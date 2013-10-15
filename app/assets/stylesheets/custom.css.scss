@@ -1,8 +1,15 @@
 $body-bg:	#bdc3c7;
-$navbar-inverse-bg: 	#2c3e50;
-$navbar-inverse-link-color:		white;
+$navbar-inverse-bg: 	White;
+$navbar-inverse-link-color:		red;
+$navbar-inverse-link-hover-color: blue;
+$navbar-inverse-brand-hover-color: blue;
 $dropdown-link-hover-color:		#7f8c8d;
 $brand-primary:  gold;
 $jumbotron-bg: #2980b9;
+$centered: auto;
 
 @import 'bootstrap';
+
+.center{
+	text-align: center;
+}
